@@ -1,0 +1,170 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Kerberos-rolling-II
+Label: Kerberos-rolling-II
+Suite: 8.0
+Codename: sid
+Version: 8.0
+Date: Sat, 13 May 2017 16:04:26 UTC
+Architectures: amd64 i386 armhf
+Components: kerberos-rolling main non-free contrib
+Description: Repository for kerberos, a system for penetration testing.
+MD5Sum:
+ ab12762a8c5257ff8dfb9f8dc4227209 13690 kerberos-rolling/binary-amd64/Packages
+ 3665cfc694d1be6f82bc1d18b8b834f2 4100 kerberos-rolling/binary-amd64/Packages.gz
+ 74083d4b05185d3f1016831bb0853bb6 201 kerberos-rolling/binary-amd64/Release
+ e63ccc9f771b7b1eb51e62cee3e4ca9e 2140 kerberos-rolling/binary-i386/Packages
+ 915bcf8820ecb7b5773a67471c8cb833 1070 kerberos-rolling/binary-i386/Packages.gz
+ a1d42420ab19b19c6e72320874ae18a1 200 kerberos-rolling/binary-i386/Release
+ e63ccc9f771b7b1eb51e62cee3e4ca9e 2140 kerberos-rolling/binary-armhf/Packages
+ 915bcf8820ecb7b5773a67471c8cb833 1070 kerberos-rolling/binary-armhf/Packages.gz
+ 0627b204efad259a806bac57b3ed1f44 201 kerberos-rolling/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 kerberos-rolling/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 kerberos-rolling/source/Sources.gz
+ c922c5e39aa5ac36d7ae95cfe1c029f4 202 kerberos-rolling/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-amd64/Packages.gz
+ 4465464dbd57007cc47b9463cb54e051 189 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ d42bc0c204eea08efeb9602b60552c64 188 main/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-armhf/Packages.gz
+ 0b4cb74060a81ab22a6259d35b5ab28d 189 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 3c0834825e24d7e725158d29dd4af704 190 main/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-amd64/Packages.gz
+ 7dc973d7485ac3e1ae1fb3645a19eb68 193 non-free/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-i386/Packages.gz
+ c07e32805660f4780f255126e975e029 192 non-free/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/binary-armhf/Packages.gz
+ df46c4311cfb15c0ac87f04121334270 193 non-free/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 non-free/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 non-free/source/Sources.gz
+ 502cbb5217bb0b405e6a456d8dcd93b7 194 non-free/source/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-amd64/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-amd64/Packages.gz
+ beae7a01676447be488b42f89eedfdb1 192 contrib/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-i386/Packages.gz
+ d61016c2c4a44a0e626a5365ed494537 191 contrib/binary-i386/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/binary-armhf/Packages.gz
+ 422342e4374e62a26c4acbf1540a19bb 192 contrib/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 contrib/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 contrib/source/Sources.gz
+ 6dda213fddb82d31bc5b94e72835612e 193 contrib/source/Release
+SHA1:
+ 2cabbb1de82d05a9110dd4d498ee35a21c33d985 13690 kerberos-rolling/binary-amd64/Packages
+ 10a6b07ccdc1be4117effd4df802dcd24ec0d4d3 4100 kerberos-rolling/binary-amd64/Packages.gz
+ 5c9cca6e3b9696900c16d1d00f9444c7afcf1b07 201 kerberos-rolling/binary-amd64/Release
+ b1bd1de7d3189bf0c02dc1b6f16a650aa3afb075 2140 kerberos-rolling/binary-i386/Packages
+ 4281420a855c34af8954eeaa9d02625a68aa32e9 1070 kerberos-rolling/binary-i386/Packages.gz
+ 551687f3940ccfeb37e7a40f2979955f70bd45ca 200 kerberos-rolling/binary-i386/Release
+ b1bd1de7d3189bf0c02dc1b6f16a650aa3afb075 2140 kerberos-rolling/binary-armhf/Packages
+ 4281420a855c34af8954eeaa9d02625a68aa32e9 1070 kerberos-rolling/binary-armhf/Packages.gz
+ a0f3e5b5ad2b58ed758d3409c96d3aadbf1cc706 201 kerberos-rolling/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 kerberos-rolling/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 kerberos-rolling/source/Sources.gz
+ 900b02040dcaa7d4fcfb6175cee5117ec647e598 202 kerberos-rolling/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-amd64/Packages.gz
+ 859104107cb8ab4291a6c1c9e3477ee61a6a0ee4 189 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 89e8deff07addd73b78112453e494d53f19b5b83 188 main/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-armhf/Packages.gz
+ b49fef2a6643d2f427254ac388c0ddfbbc2f3d22 189 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 39a8b41d19a22e33fbaab68241c8809c490c399d 190 main/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-amd64/Packages.gz
+ 2a6286c3c7413876df33dbf34b7d3c2b47d84030 193 non-free/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-i386/Packages.gz
+ 1741308ed7b55df7152936b1bad41cbdf15b36a2 192 non-free/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/binary-armhf/Packages.gz
+ 94fef5842a8a2905c01efbeff1e5db821a1d3ccc 193 non-free/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 non-free/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 non-free/source/Sources.gz
+ 11cfcaa8b2034ee24056d12e4c208280878ef125 194 non-free/source/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-amd64/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-amd64/Packages.gz
+ 00d0664cc69ba9d029fca09ec2f2818dc61a30db 192 contrib/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-i386/Packages.gz
+ a87710ba3c708127bdb8644f406e0cfbc36dfa7f 191 contrib/binary-i386/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/binary-armhf/Packages.gz
+ 3c7650122301a7797e5307b0872e72ee05ea0101 192 contrib/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 contrib/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 contrib/source/Sources.gz
+ 1e4fb124bd8adc7a07b3805aa1c3f8ae7c2162ad 193 contrib/source/Release
+SHA256:
+ 3927b98f17d60d7872089137de5bfc8f7709be59376dcec69186fd4f6fb6b5e8 13690 kerberos-rolling/binary-amd64/Packages
+ 9a6248572b93d9df25b2a641cc503e6828d0fa2ce0474612d0a82486d197dd91 4100 kerberos-rolling/binary-amd64/Packages.gz
+ ec1336831eefa3ef82ae76b9a447fbdecae41671bf5ff7a44c4df0b7f5b344bf 201 kerberos-rolling/binary-amd64/Release
+ c129bbba8cbb21e62118d39387f761750352cb509b7f771a5ea52ff17836390c 2140 kerberos-rolling/binary-i386/Packages
+ 7990f51da1aa73179cde1b6b3c4c44b0317ab74838f22b93016770d6586de665 1070 kerberos-rolling/binary-i386/Packages.gz
+ 545accd7192f16edda4cb53db5749dd1de96b499ab575941f96e2db34e6a4622 200 kerberos-rolling/binary-i386/Release
+ c129bbba8cbb21e62118d39387f761750352cb509b7f771a5ea52ff17836390c 2140 kerberos-rolling/binary-armhf/Packages
+ 7990f51da1aa73179cde1b6b3c4c44b0317ab74838f22b93016770d6586de665 1070 kerberos-rolling/binary-armhf/Packages.gz
+ 3dc5c9a9078e964723d1c8ee2d6a4595843c75782383069f202d5a0ae41f6193 201 kerberos-rolling/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 kerberos-rolling/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 kerberos-rolling/source/Sources.gz
+ f0f7e8f903317ed99890dacc22dcfe8ad1a8e91a084a062f7240d5d32df33663 202 kerberos-rolling/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-amd64/Packages.gz
+ 64eb7d002eba6096e27db2f74cedecca1426725c8398084554fdc5ac9e742e95 189 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ 4ebcf80287d4a51be11591ac1c0530cf529a7e0e1a05770c9b66701a5347d864 188 main/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-armhf/Packages.gz
+ 9d6b6877b77106d194a917829abca648c290789e387ab967e67493df8342a6d2 189 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ c12daf9be766570ba00d7ad1e4075a8ba5de8067c3068cd284337c6ccef07731 190 main/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-amd64/Packages.gz
+ 29992c7e9f43b6534508ab2e07fe90875e7e1ee52cac1a2db34fcbc92f73d0f3 193 non-free/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-i386/Packages.gz
+ 8fed7188c2ba1719953e13a7cd0944b7e8aed1dab4420207801fd730411cd943 192 non-free/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/binary-armhf/Packages.gz
+ 1089cceb398b44f30158d6a0db6f8f695eb4e2aaf9f3b9d4e543ecbb1c4f56b8 193 non-free/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 non-free/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 non-free/source/Sources.gz
+ 6e2cf3b4ff7d690885ef4169ce69c685deb38e78fd9f1a01627eaad860de9d03 194 non-free/source/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-amd64/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-amd64/Packages.gz
+ 91b64f0e17d2ea90cb40cd1f475649cd66121f12c56f6c469834389e149070d5 192 contrib/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-i386/Packages.gz
+ b1fd085fed2e4f1936e2fe497a16b98215d56471f554f11f6e1f23d92fc4109a 191 contrib/binary-i386/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/binary-armhf/Packages.gz
+ 0c178c65721184da80058b1d2c9fa0ebfb4465d1a662384f1605f7c1a8fe2a1e 192 contrib/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 contrib/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 contrib/source/Sources.gz
+ 85f926e39ff14529aa06849c4758397f6a3b1694f5ce4ddb879efe5fd007cfdf 193 contrib/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE4ZzY+qJBwcFsUiImfxHpcK0eTPcFAlkXLooACgkQfxHpcK0e
+TPcAIwf/SD+owDkVn78c9riaHcVu4CU/5QR7gKR2e0w7HZK4s78Qadm05RjZNRqW
+0dyP6A/vppnt+zuvCdCF8gv94VFikcayUBVgF7N8iAD8RJdP+vA5CCCjWLaaofUQ
+MkMdTihI5NKULsc9iu8fPP+wpL5Bq+585JcgQ0MCuvy+SnqmJNM4Xxkgu9Py2Emd
+ihavYardNA7JCAxjzXC4CjAoFxwqXdQSKNpbTtG04sUWarn7gpWTieufCiAQik1H
+pLprGCpg15SngMKLiKVwvnC2gzXqkD74iNgCJlrR9xGqw34MKwCyJ6PNg0pKmYQb
+t4W7nSX3PCX3m0Gjw83Qztp2CKc+6Q==
+=Mvgb
+-----END PGP SIGNATURE-----

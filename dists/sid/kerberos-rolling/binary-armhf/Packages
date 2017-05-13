@@ -1,0 +1,57 @@
+Package: kerberos-menu
+Version: 2017.02.24+p3
+Architecture: all
+Maintainer: Lorenzo "Palinuro" Faletra <palinuro@kerberossec.org>
+Installed-Size: 6403
+Depends: perl:any, libdpkg-perl, libfile-fcntllock-perl, xdg-utils
+Breaks: dradis (<< 3.1.0~rc2)
+Replaces: mate-menus
+Priority: optional
+Section: kerberos
+Filename: pool/kerberos-rolling/k/kerberos-menu/kerberos-menu_2017.02.24+p3_all.deb
+Size: 4408394
+SHA256: 0384670dc1bdabb1d1866f47873420b34047d14101fdf6b4bbf8e7e6df31f2df
+SHA1: 4a94674dddc7077da144ae466ab91d63508b3dd1
+MD5sum: 30340e3922b0269583d6c16144fd3752
+Description: Kerberos GNU/Linux custom menu
+ This package provides a custom menu for Kerberos GNU/Linux.
+ .
+ It is used by any destkop that complies with the Freedesktop menu
+ specification at http://standards.freedesktop.org/menu-spec/menu-spec-1.0.html
+
+Package: kerberos-root-login
+Version: 2016.1.0
+Architecture: all
+Maintainer: Raphaël Hertzog <hertzog@debian.org>
+Installed-Size: 9
+Breaks: gdm3 (<< 3.13)
+Priority: optional
+Section: misc
+Filename: pool/kerberos-rolling/k/kerberos-root-login/kerberos-root-login_2016.1.0_all.deb
+Size: 1764
+SHA256: 82ee94663279db4b4da5b194b985e7592c5d104ac10ab7814b78dd35bff445bf
+SHA1: 428bf491ab5e1a03f7618c3201fd69ed26aaa90a
+MD5sum: 207ef87e116a6a97b7c5b3871ceb8e3a
+Description: Bits of configuration to allow root logins
+ Kerberos's purpose is very specific and it requires root rights in many
+ cases. As such, root logins are allowed by default.
+ .
+ Installing this package modifies gdm3's default configuration to allow
+ root logins.
+
+Package: kerberos-sound-theme-borealis
+Version: 76.54kerberos
+Architecture: all
+Maintainer: Kerberos <KerberosLinux@gmail.com>
+Installed-Size: 2918
+Provides: kerberos-sound-theme
+Homepage: http://www.blackhatsec.org/
+Priority: optional
+Section: admin
+Filename: pool/kerberos-rolling/k/kerberos-sound-theme-borealis/kerberos-sound-theme-borealis_76.54kerberos_all.deb
+Size: 2789112
+SHA256: 75d53d8575de7ff3285153d93a5fb61163ad13a8c5ffc4d9448afb2cf01ffe74
+SHA1: 37725a8c71b2cce8c21d4a561d3aa39b3a956144
+MD5sum: 99a45900acce6a6c8ac32929bee94860
+Description: Kerberos Linux Package by D4RkNiK0l4s/
+
